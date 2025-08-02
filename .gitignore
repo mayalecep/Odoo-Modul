@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Odoo specific
+*.log
+*.pot
+*.pyc
+*.pyo
+local_settings.py
+
+# Database
+*.sql
+*.sqlite3
